@@ -9,7 +9,7 @@ A personal collection of Git know-how, best-practices and trainings
 
 ## Introduction to Git collaboration workflows
 
-The impress file [Introduction to Git collaboration workflows.odp] (https://github.com/aryoda/git_essentials/raw/master/Introduction%20to%20Git%20collaboration%20workflows.odp)
+The impress file [Introduction to Git collaboration workflows.odp](https://github.com/aryoda/git_essentials/raw/master/Introduction%20to%20Git%20collaboration%20workflows.odp)
 contains slides that
 
 1. introduce the ideas of different Git workflows to work together in teams
